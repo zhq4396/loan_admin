@@ -1,0 +1,65 @@
+{
+  "id": "2461855",
+  "name": "台有爱",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "台有爱菜单图标",
+  "glyphs": [
+    {
+      "icon_id": "13006312",
+      "name": "需求",
+      "font_class": "4",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "20125962",
+      "name": "积分",
+      "font_class": "jifen1",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "16260458",
+      "name": "礼物",
+      "font_class": "liwu1",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "18840906",
+      "name": "架构",
+      "font_class": "jiagou1",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "2192403",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5809180",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "10198514",
+      "name": "账号管理",
+      "font_class": "zhanghao",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "20342411",
+      "name": "风采",
+      "font_class": "fengcai1",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
